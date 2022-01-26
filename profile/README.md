@@ -7,13 +7,12 @@
 
 <br>
 
-<center>
 
-[![바로가기 버튼](https://user-images.githubusercontent.com/63698668/151119816-1f14496c-84a5-4401-a840-6a376e51731f.png)](https://bbomomo.com/)
-
-</center>
-
-<br>
+<span align="center">
+ 
+ [![바로가기 버튼](https://user-images.githubusercontent.com/63698668/151119816-1f14496c-84a5-4401-a840-6a376e51731f.png)](https://bbomomo.com/)
+ 
+ </span>
 
 
 ## 프로젝트 기간
