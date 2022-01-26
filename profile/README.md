@@ -9,7 +9,7 @@
 
 # 프로젝트 기간
 
->12/18 (토) ~ 1/28 (금)
+> 12/18 (토) ~ 1/28 (금)
 
 <br>
 
@@ -19,18 +19,12 @@
 
 | 이름     | 깃허브 주소                                                | 포지션     |
 | -------- | ---------------------------------------------------------- | ---------- |
-| 🔰김희경 | [https://github.com/gimgit](https://github.com/gimgit) | 백엔드     |
+| 🔰김희경 | [이메일 주소1](이메일주소@example.com)                     | 백엔드     |
 | 이상협   | [이메일 주소1](이메일주소@example.com)                     | 백엔드     |
 | 길재원   | [https://github.com/kiljw316](https://github.com/kiljw316) | 백엔드     |
 | 정종찬   | [이메일 주소1](이메일주소@example.com)                     | 프론트엔드 |
 | 서민지   | [이메일 주소1](이메일주소@example.com)                     | 프론트엔드 |
 | 이서현   | [이메일 주소1](이메일주소@example.com)                     | 프론트엔드 |
-
-<br>
-
-# 프로젝트 아키텍쳐
-
-
 
 <br>
 
@@ -62,7 +56,7 @@ webRTC를 활용하여 본인의 화면을 송출하는 동시에 다른 유저�
 
 # 기술 스택
 
-> ## 프론트 엔드
+> ## 프론트엔드
 
 <p align="center">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -82,7 +76,7 @@ webRTC를 활용하여 본인의 화면을 송출하는 동시에 다른 유저�
 <br>
 <br>
 
-> ## 백 엔드
+> ## 백엔드
 
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -120,19 +114,25 @@ webRTC를 활용하여 본인의 화면을 송출하는 동시에 다른 유저�
 - 프론트엔드 깃허브 주소 : https://github.com/BBOMOMO/TEAM-BBOMOMO-FE
 - 백엔드 깃허브 주소 : https://github.com/BBOMOMO/TEAM-BBOMOMO-BE
 
-
 <br>
 
-
 # more info
+
+![Group 3475](https://user-images.githubusercontent.com/63698668/151095485-db07f9d7-a895-4a60-85f1-d214a0ee8b15.png)
+[시연 연상](https://youtu.be/LQ_u9ZKzZIE)
+
+
+![Group 3474](https://user-images.githubusercontent.com/63698668/151095484-0d54cb7c-b35a-4f4f-947a-ce50e45489fa.png)
+[화면 설계서](https://docs.google.com/presentation/d/1I7jFArgiHkIvfjGNZ5nO3M5Se-W5Q7ABn13FF47iLrw/edit?usp=sharing)
 
 ## API 명세서
 
 사진 or 링크
 
-## 화면 설계서
 
-링크 or 텍스트
+![Group 3476](https://user-images.githubusercontent.com/63698668/151095487-5436eb0a-2cef-4d57-802c-0095eb171d97.png)
+![Group 3477](https://user-images.githubusercontent.com/63698668/151095490-9e2b3688-9f9f-4e93-9165-97b8423fef78.png)
+![Group 3478](https://user-images.githubusercontent.com/63698668/151095492-35f5e6d7-1854-4175-8b94-d5e19ac19c65.png)
 
 <details>
 <summary>ERD</summary>
