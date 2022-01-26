@@ -7,12 +7,13 @@
 
 <br>
 
+<center>
 
-<span align="center">
- 
- [![바로가기 버튼](https://user-images.githubusercontent.com/63698668/151119816-1f14496c-84a5-4401-a840-6a376e51731f.png)](https://bbomomo.com/)
- 
- </span>
+[![바로가기 버튼](https://user-images.githubusercontent.com/63698668/151119816-1f14496c-84a5-4401-a840-6a376e51731f.png)](https://bbomomo.com/)
+
+</center>
+
+<br>
 
 
 ## 프로젝트 기간
@@ -37,26 +38,23 @@
 # 핵심 기능 Key Feature
 
 <details>
-<summary>📚 화상 스터디</summary>
+<summary>화상 스터디</summary>
 <div markdown="1">
- <br>
-   스터디룸에 접속한 유저는 webRTC를 활용하여 본인의 화면을 송출하는 동시에 다른 유저의 집중하는 모습을 실시간으로 확인
+ 🧑‍💻 스터디룸에 접속한 유저는 webRTC를 활용하여 본인의 화면을 송출하는 동시에 다른 유저의 집중하는 모습을 실시간으로 확인
 </div>
 </details>
 
 <details>
-<summary>⏰ 공부 타이머 및 그룹 채팅</summary>
+<summary>공부 타이머 및 그룹 채팅</summary>
 <div markdown="1">
- <br>
-   소켓 통신을 바탕으로 공부 시간과 쉬는 시간을 구분하는 모달을 띄우고, 쉬는 시간에는 스터디룸 채팅 기능 제공
+ ⏰ 소켓 통신을 바탕으로 공부 시간과 쉬는 시간을 구분하는 모달을 띄우고, 쉬는 시간에는 스터디룸 채팅 기능 제공
 </div>
 </details>
 
 <details>
-<summary>🏆 공부 인증 및 랭킹 기능</summary>
+<summary>공부 인증 및 랭킹 기능</summary>
 <div markdown="1">
- <br>
-   매일 09:00 기준으로 DB에 저장된 공부 시간을 참조하여 일일 공부시간 제공, 공부인증 게시물 작성, 주간 공부시간 랭킹 표시
+ 🏆 매일 09:00 기준으로 DB에 저장된 공부 시간을 참조하여 일일 공부시간 제공, 공부인증 게시물 작성, 주간 공부시간 랭킹 표시
 </div>
 </details>
 
@@ -107,13 +105,6 @@
 
 <br>
 
-# 사용 How To Use
-
-프론트 저장소 들어가서 명령어
-백엔드 저장소 들어가서 명령어
-
-<br>
-
 # Links
 
 - Project homepage: https://bbomomo.com/
@@ -129,18 +120,21 @@
 ![Group 3475](https://user-images.githubusercontent.com/63698668/151095485-db07f9d7-a895-4a60-85f1-d214a0ee8b15.png)
 [시연 연상](https://youtu.be/LQ_u9ZKzZIE)
 
-
 ![Group 3474](https://user-images.githubusercontent.com/63698668/151095484-0d54cb7c-b35a-4f4f-947a-ce50e45489fa.png)
 [화면 설계서](https://docs.google.com/presentation/d/1I7jFArgiHkIvfjGNZ5nO3M5Se-W5Q7ABn13FF47iLrw/edit?usp=sharing)
 
-## API 명세서
 
-사진 or 링크
+<details>
+<summary>API 명세서</summary>
+<div markdown="1">
 
+![auth](https://user-images.githubusercontent.com/87928719/151182062-10082d50-771c-4835-992a-be3f1c5d034e.PNG)
+![users](https://user-images.githubusercontent.com/87928719/151182046-13c8f50a-da55-4e85-b68f-e0ee2ed242d6.png)
+![studyRoom](https://user-images.githubusercontent.com/87928719/151182076-8896433d-2e7e-45e1-9c45-24e4ca46761d.png)
+![post](https://user-images.githubusercontent.com/87928719/151182093-e3c120e9-cc38-4eb6-a706-4068b04534fb.png)
 
-![Group 3476](https://user-images.githubusercontent.com/63698668/151095487-5436eb0a-2cef-4d57-802c-0095eb171d97.png)
-![Group 3477](https://user-images.githubusercontent.com/63698668/151095490-9e2b3688-9f9f-4e93-9165-97b8423fef78.png)
-![Group 3478](https://user-images.githubusercontent.com/63698668/151095492-35f5e6d7-1854-4175-8b94-d5e19ac19c65.png)
+</div>
+</details>
 
 <details>
 <summary>ERD</summary>
@@ -180,3 +174,8 @@
 
 </div>
 </details>
+
+
+![Group 3476](https://user-images.githubusercontent.com/63698668/151095487-5436eb0a-2cef-4d57-802c-0095eb171d97.png)
+![Group 3477](https://user-images.githubusercontent.com/63698668/151095490-9e2b3688-9f9f-4e93-9165-97b8423fef78.png)
+![Group 3478](https://user-images.githubusercontent.com/63698668/151095492-35f5e6d7-1854-4175-8b94-d5e19ac19c65.png)
