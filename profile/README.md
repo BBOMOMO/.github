@@ -29,6 +29,8 @@
 | 정종찬   | [https://github.com/youHaveToDo](https://github.com/youHaveToDo)                     | 프론트엔드 |
 | 서민지   | [https://github.com/ireneeming](https://github.com/ireneeming)                     | 프론트엔드 |
 | 이서현   | [https://github.com/hamkke](https://github.com/hamkke)                     | 프론트엔드 |
+| 이가인   | []()                     | 디자인 |
+| 이경미   | []()                     | 디자인 |
 
 <br>
 
