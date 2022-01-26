@@ -19,7 +19,7 @@
 
 | 이름     | 깃허브 주소                                                | 포지션     |
 | -------- | ---------------------------------------------------------- | ---------- |
-| 🔰김희경 | [이메일 주소1](이메일주소@example.com)                     | 백엔드     |
+| 🔰김희경 | [https://github.com/gimgit](https://github.com/gimgit) | 백엔드     |
 | 이상협   | [이메일 주소1](이메일주소@example.com)                     | 백엔드     |
 | 길재원   | [https://github.com/kiljw316](https://github.com/kiljw316) | 백엔드     |
 | 정종찬   | [이메일 주소1](이메일주소@example.com)                     | 프론트엔드 |
