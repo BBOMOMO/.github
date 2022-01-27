@@ -30,7 +30,7 @@
 | 정종찬   | [https://github.com/youHaveToDo](https://github.com/youHaveToDo)                     | 프론트엔드 |
 | 서민지   | [https://github.com/ireneeming](https://github.com/ireneeming)                     | 프론트엔드 |
 | 이서현   | [https://github.com/hamkke](https://github.com/hamkke)                     | 프론트엔드 |
-| 이가인   | [bit.ly/leegain](bit.ly/leegain)                     | 디자인 |
+| 이가인   | [bit.ly/leegain](https://elated-glue-b4c.notion.site/LEEGAIN-PORTFOLIO-e0e1ba571f244c7d9c0a5325ed98295f)                     | 디자인 |
 | 이경미   | [https://github.com/leekyungmimiii](https://github.com/leekyungmimiii)                     | 디자인 |
 
 <br>
