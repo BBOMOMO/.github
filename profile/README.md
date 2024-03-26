@@ -15,7 +15,8 @@
 
 <br>
 
-
+![Group 3475](https://user-images.githubusercontent.com/63698668/151095485-db07f9d7-a895-4a60-85f1-d214a0ee8b15.png)
+[시연 연상](https://youtu.be/LQ_u9ZKzZIE)
 ## 프로젝트 기간
 >12월18일 부터 1월28일 까지 ( 40일 )
 
@@ -120,8 +121,7 @@
 
 # more info
 
-![Group 3475](https://user-images.githubusercontent.com/63698668/151095485-db07f9d7-a895-4a60-85f1-d214a0ee8b15.png)
-[시연 연상](https://youtu.be/LQ_u9ZKzZIE)
+
 
 ![Group 3474](https://user-images.githubusercontent.com/63698668/151095484-0d54cb7c-b35a-4f4f-947a-ce50e45489fa.png)
 [화면 설계서](https://docs.google.com/presentation/d/1I7jFArgiHkIvfjGNZ5nO3M5Se-W5Q7ABn13FF47iLrw/edit?usp=sharing)
